@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics and Programing
 - 🌱 I’m currently learning
 
-          -> Microprocessor
+          -> Microprocessors
           
           -> C++
           
