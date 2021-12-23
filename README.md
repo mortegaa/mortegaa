@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @mortegaa
 - 👀 I’m interested in Electronics and Programing
 - 🌱 I’m currently learning
-          -> Microprocessors
+
+          -> Microprocessor
+          
           -> C++
+          
           -> French
+          
           -> ...
+          
 - 💞️ I’m looking to collaborate on embbebed systems programming
 - 📫 How to reach me
           -> email: manuortegath@gmail.com
