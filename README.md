@@ -3,7 +3,7 @@
 
 <!---
 ### Connect with me: [My Linkedin](linkedin.com/in/claudia-garcía-talavera-060289215)
---->
+
 
 42 Student -> Level 10
 
@@ -18,9 +18,61 @@
 | :hourglass: | Exam 00 |  Exam 01 |  Exam 02 |  Exam 03 |
 | :------: | :-----: | :------: | :------: | :------: |
 |**Score**| 00% :white_check_mark: |  32% :white_check_mark: |  42% :white_check_mark: | 66% :white_check_mark: |
+--->
+<h3 align="left"> {👨‍💻} I code with...</h3>
 
-## 42 Student
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+<br>
+
+<h3 align="left"> and... 🛠 I work with... </h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="kubernetes logo"  />
+</div>
+
+<br>
+<br>
+
+## 42 Student -> Level 10
 #### <ins>Common Core Projects</ins>
+
+- fdf
+- miniRT
+- Philosophers
+- WebServer
+- minishell
+
 |  Rank 0              |          [Libft](https://github.com/Claw-gt/git_libft/tree/main)                          |
 | :------------------: | :---------------------------------------------------------------------------------------: |
 |  Rank 1              | [Born2BeRoot](https://github.com/Claw-gt/git_born2beroot/tree/main) | [Printf](https://github.com/Claw-gt/git_printf/tree/main) | [Get_next_line](https://github.com/Claw-gt/git_gnl/tree/main)  |
@@ -62,8 +114,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
